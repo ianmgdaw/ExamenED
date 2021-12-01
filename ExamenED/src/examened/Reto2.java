@@ -9,13 +9,12 @@ package examened;
  *
  * @author examened
  */
-public class ExamenED {
+public class Reto2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        for (int cont = 1; cont <= 1000; cont++) {
+            System.out.println(cont);
+        }
     }
-    
 }
